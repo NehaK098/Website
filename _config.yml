@@ -1,0 +1,61 @@
+# Site
+repository: johnyj02/Hakuna-Ma-Data
+# favicon: images/favicon.ico
+
+# Personal info
+name: Joseph Sankoorikal Johny
+email: JosephJohny@cmu.edu
+website: https://johnyj02.github.io/Hakuna-Ma-Data/
+
+# Social links
+# twitter_username: facespics
+github_username:  johnyj02
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: chillwildlife
+linkedin_username:  joseph-johny
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: /Joe_image2.jpg
+about_content: | # this will include new lines to allow paragraphs
+ Hello, I'm Joseph and I study Business Intelligence and Data Analytics at Carnegie Mellon University. Prior to this I was working at Mu Sigma, a Data Analytics company as a Senior Decision Scientist. I'm an analytics professional with close to 4 years of experience with expertise in fraud and customer engagement analytics. I am passionate about learning to keep improving myself and contribute effectively by leveraging my skills and experience in the field to enable businesses to utilize data and take strategic decisions.
+I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+# Projects Section
+# projects_title: Projects #
+
+
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in Data Science and Data Analytics some of my other interests and hobbies are:
+   - Taking part in Kaggle competitions 
+   - Gaming
+   - Coin collection
+
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+darkmode: true
