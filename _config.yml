@@ -1,27 +1,27 @@
 # Site
-repository: johnyj02/Hakuna-Ma-Data
+repository: nehak098/Website
 # favicon: images/favicon.ico
 
 # Personal info
-name: Joseph Sankoorikal Johny
-email: JosephJohny@cmu.edu
-website: https://johnyj02.github.io/Hakuna-Ma-Data/
+name: Neha Kaushik
+email: nehakaus@andrew.cmu.edu
+website: https://nehak098.github.io/Website/
 
 # Social links
 # twitter_username: facespics
-github_username:  johnyj02
+github_username:  NehaK098
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-linkedin_username:  joseph-johny
+linkedin_username:  neha098
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me
-about_profile_image: /Joe_image2.jpg
+# about_profile_image: /Joe_image2.jpg
 about_content: | # this will include new lines to allow paragraphs
  Hello, I'm Joseph and I study Business Intelligence and Data Analytics at Carnegie Mellon University. Prior to this I was working at Mu Sigma, a Data Analytics company as a Senior Decision Scientist. I'm an analytics professional with close to 4 years of experience with expertise in fraud and customer engagement analytics. I am passionate about learning to keep improving myself and contribute effectively by leveraging my skills and experience in the field to enable businesses to utilize data and take strategic decisions.
 I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
